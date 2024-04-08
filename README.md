@@ -46,4 +46,4 @@ After testing on real devices, we found out iOS automatically sync cookies betwe
 
 If your app's code relies on the cookies from WKWebView or your WKWebview relies on the cookies from the app, you may need to do your own sync logic, as the delay of iOS automatically sync will cause a lot of issues. 
 
-You can use this project to test the sync delay between HTTPCookieStorage and WKWebsiteDataStore, fell free to reach out to me if has any questions.
+You can use this project to test the sync delay between HTTPCookieStorage and WKWebsiteDataStore, feel free to reach out to me if has any questions.
