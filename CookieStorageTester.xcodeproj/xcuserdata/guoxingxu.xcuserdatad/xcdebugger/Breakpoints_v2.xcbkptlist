@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "864658A0-7629-4107-AF02-F2979DD5AF90"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2F08C16-AA20-4D44-B863-70B4F8C39C6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CookieStorageTester/HTTPCookieStorageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "HTTPCookieStorageView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "D2F08C16-AA20-4D44-B863-70B4F8C39C6C - 5ca74eb7f39d9906"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CookieStorageTester.HTTPCookieStorageView.init() -&gt; CookieStorageTester.HTTPCookieStorageView"
+                  moduleName = "CookieStorageTester"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guoxingxu/Code/CookieStorageTester/CookieStorageTester/HTTPCookieStorageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D2F08C16-AA20-4D44-B863-70B4F8C39C6C - 3482b8a4c1d64f01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of CookieStorageTester.HTTPCookieStorageView.init(cookeStorage: __C.NSHTTPCookieStorage) -&gt; CookieStorageTester.HTTPCookieStorageView"
+                  moduleName = "CookieStorageTester"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guoxingxu/Code/CookieStorageTester/CookieStorageTester/HTTPCookieStorageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09E5C7E3-4358-483C-80C8-4D07A42A58F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CookieStorageTester/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
