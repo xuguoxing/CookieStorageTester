@@ -33,7 +33,7 @@ You can also create a data store object and assign it to the [websiteDataStore](
 
 For example: 
 * To create a private web-browsing session, create a nonpersistent data store using the [nonPersistent()](https://developer.apple.com/documentation/webkit/wkwebsitedatastore/1532934-nonpersistent) method and assign it to the websiteDataStore property. 
-* To implement profile browsing, create a persistent data store using the init[(forIdentifier:)](https://developer.apple.com/documentation/webkit/wkwebsitedatastore/4183560-init) method, passing an identifier that you use to identify the data store.
+* To implement profile browsing, create a persistent data store using the [init(forIdentifier:)](https://developer.apple.com/documentation/webkit/wkwebsitedatastore/4183560-init) method, passing an identifier that you use to identify the data store.
 
 
 ### Managing WKHTTPCookieStore
